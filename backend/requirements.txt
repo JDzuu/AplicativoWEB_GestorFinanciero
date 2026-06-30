@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+reportlab
+python-dotenv
+
+# Cifrado de contraseñas con Argon2id (estándar recomendado por OWASP).
+pwdlib[argon2]
+
+slowapi
+psycopg[binary,pool]
