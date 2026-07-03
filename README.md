@@ -1,4 +1,5 @@
 Aun es mejorable TwT 
+
 Link mintlify: https://mintlify.wiki/JDzuu/AplicativoWEB_GestorFinanciero/introduction
 
 # Gestor de Proyectos — AplicativoWeb Financiero
